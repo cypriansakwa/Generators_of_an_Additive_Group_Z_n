@@ -1,5 +1,5 @@
 fn main() {
-    let n = 19; // Example value for n
+    let n = 12; // Example value for n
     let generators = find_generators(n);
     
     println!("Generators of the additive group Z_{}: {:?}", n, generators);
